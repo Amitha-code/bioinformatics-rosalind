@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+Amitha + 1002198887 + BIOL5340-001
